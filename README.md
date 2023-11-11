@@ -1,6 +1,6 @@
 # machine-learning-algorithm
 
-1. [Regression Tree](./Regression_Tree.py)
+1. [Regression Tree](./Regression_Tree.py) [Regression Tree-sklearn](./Regression_Tree_sklearn.py)
 1. [Boosting Tree]
 1. [GBDT Regression]
 1. [GBDT BinaryClassifier]
